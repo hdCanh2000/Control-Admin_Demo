@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Galaxy J7+",
+      "brand": "Samsung",
+      "price": "4500",
+      "color": "red",
+      "photo": "https://cdn.tgdd.vn/Files/2020/08/05/1277090/samsung-galaxy-fold-2-2020_800x450.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Galaxy S22 Ultra",
+      "brand": "Samsung",
+      "price": "500",
+      "color": "green",
+      "photo": "https://cdn.tgdd.vn/Files/2020/08/05/1277090/samsung-galaxy-fold-2-product-image_800x415.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Galaxy S22 ",
+      "brand": "Samsung",
+      "price": "5000",
+      "color": "green",
+      "photo": "https://cdn.tgdd.vn/Files/2020/08/05/1277090/samsung-galaxy-fold-2_800x614.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Hoàng Đức Cảnh",
+      "age": "22",
+      "mail": "hdc@gmail.com",
+      "address": "Ninh Bình",
+      "phone": "0355400799"
+    },
+    {
+      "id": "2",
+      "name": "Hoàng Đức Cảnh 2",
+      "age": "22",
+      "mail": "hdc2@gmail.com",
+      "address": "Ninh Bình 2",
+      "phone": "0355400799"
+    },
+    {
+      "id": "3",
+      "name": "Hoàng Đức Cảnh 3",
+      "age": "22",
+      "mail": "hdc3@gmail.com",
+      "address": "Ninh Bình 3",
+      "phone": "0355400799"
+    },
+    {
+      "name": "DUC",
+      "address": "Thai Nguyen of University",
+      "phone": "0355400799",
+      "age": "22",
+      "mail": "dtc@gmail.com",
+      "id": "dY0BPDw"
+    },
+    {
+      "id": "3",
+      "name": "Hoàng Đức Cảnh 3",
+      "age": "22",
+      "mail": "hdc3@gmail.com",
+      "address": "Ninh Bình 3",
+      "phone": "0355400799"
+    },
+    {
+      "id": "55",
+      "name": "Hoàng Đức Cảnh 55",
+      "age": "22",
+      "mail": "hdc55@gmail.com",
+      "address": "Ninh Bình 55",
+      "phone": "0355400799"
+    },
+    {
+      "id": "4",
+      "name": "Hoàng Đức Cảnh 4",
+      "age": "22",
+      "mail": "hdc4@gmail.com",
+      "address": "Ninh Bình 4",
+      "phone": "0355400799"
+    },
+    {
+      "id": "5",
+      "name": "Hoàng Đức Cảnh 5",
+      "age": "22",
+      "mail": "hdc5@gmail.com",
+      "address": "Ninh Bình 5",
+      "phone": "0355400799"
+    },
+    {
+      "id": "6",
+      "name": "Hoàng Đức Cảnh 6",
+      "age": "22",
+      "mail": "hdc6@gmail.com",
+      "address": "Ninh Bình 6",
+      "phone": "0355400799"
+    }
+  ]
+}
